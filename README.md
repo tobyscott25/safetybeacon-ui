@@ -1,6 +1,6 @@
-# Project boilerplate: TypeScript + React + ChakraUI + Zustand + ESLint/Prettier
+# Safety Beacon UI
 
-| Requirement       | Choice                                        |
+| Component         | Choice                                        |
 | ----------------- | --------------------------------------------- |
 | Language          | [TypeScript](https://www.typescriptlang.org/) |
 | Framework         | [React](https://reactjs.org/)                 |
